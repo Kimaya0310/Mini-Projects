@@ -28,7 +28,7 @@ osmnx==1.9.3          # Optional: for real road network graphs using OpenStreetM
 # Machine Learning / Optimization (optional future use)
 # -------------------------------
 scikit-learn==1.5.2
-ortools==9.10.4067     # Google OR-Tools for advanced TSP / VRP solving
+ortools==9.13.4784
 
 # -------------------------------
 # Utilities & Environment
