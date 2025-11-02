@@ -1,4 +1,3 @@
-Sure — here’s the **`README.md`** in a clean **copy-paste-ready format** 👇
 
 ---
 
@@ -11,32 +10,11 @@ It uses the **OpenCage Geocoding API** to convert place names into latitude and 
 
 ---
 
-## 📁 Project Structure
-```
-
-Smart-Route-Optimizer/
-│
-├── app.py                     # Main Flask application
-├── route_model.py             # Core route optimization logic
-├── route_optimiser.py         # Helper algorithms and utilities
-├── templates/
-│   ├── index.html             # Home page (route input)
-│   └── signin.html            # Sign-in page
-│
-├── .env                       # Environment variables (API keys, secrets)
-├── requirements.txt           # Python dependencies
-├── route_optimiser.json       # Sample dataset / config file for routes
-└── README.md                  # Project documentation
-
-````
-
----
-
 ## ⚙️ Installation and Setup
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/smart-route-optimizer.git
+git clone https://github.com/Kimaya0310/Mini-Projects.git
 cd smart-route-optimizer
 ````
 
@@ -162,5 +140,3 @@ Then open your browser and visit:
 ## 🧑‍💻 Author
 
 **Developed by:** Kimaya
-**Email:** [yourname@example.com](mailto:yourname@example.com)
-**GitHub:** [https://github.com/your-username](https://github.com/your-username)
