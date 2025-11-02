@@ -1,0 +1,36 @@
+# -------------------------------
+# Core Web Framework
+# -------------------------------
+Flask==3.0.3
+Flask-Cors==4.0.0
+
+# -------------------------------
+# Data Handling & Math
+# -------------------------------
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.14.1
+
+# -------------------------------
+# Graph Algorithms (for TSP, Prim’s, Kruskal, etc.)
+# -------------------------------
+networkx==3.4.2
+
+# -------------------------------
+# Geolocation & Mapping (Optional Enhancements)
+# -------------------------------
+geopy==2.4.1          # For calculating real-world distances between coordinates
+requests==2.32.3      # For API requests (Google Maps / OpenStreetMap)
+folium==0.17.0        # Optional: if you want backend-side map visualization
+osmnx==1.9.3          # Optional: for real road network graphs using OpenStreetMap
+
+# -------------------------------
+# Machine Learning / Optimization (optional future use)
+# -------------------------------
+scikit-learn==1.5.2
+ortools==9.10.4067     # Google OR-Tools for advanced TSP / VRP solving
+
+# -------------------------------
+# Utilities & Environment
+# -------------------------------
+python-dotenv==1.0.1   # For securely loading API keys from .env file
